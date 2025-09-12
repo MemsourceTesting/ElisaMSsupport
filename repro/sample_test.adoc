@@ -1,4 +1,4 @@
-= Sample AsciiDoc Document
+
 Author Name <author@example.com>
 :toc:
 :icons: font
@@ -9,16 +9,16 @@ This is a sample AsciiDoc document. It demonstrates basic syntax elements
 
 == Section One
 
-AsciiDoc allows you to write structured text with simple 
+AsciiDoc allows you to write structured  with simple 
 
 * Bullet point one
-* Bullet point 2
+
 * Bullet point three
-bullet point four without bullet
+bullet four without bullet
 
 
-. First item
-. Second item
+. First item.
+. Second item.
 . Third item
 
 == Code Example
