@@ -1,0 +1,34 @@
+= Sample AsciiDoc Document
+Author Name <author@example.com>
+:toc:
+:icons: font
+
+== Introduction
+
+This is a sample AsciiDoc document. It demonstrates basic syntax elements
+
+== Section One
+
+AsciiDoc allows you to write structured text with simple 
+
+* Bullet point one
+* Bullet point 2
+* Bullet point three
+bullet point four without bullet
+
+
+. First item
+. Second item
+. Third item
+
+== Code Example
+
+[source,python]
+----
+def hello():
+    print("Hello, world!")
+----
+
+== Conclusion
+
+This concludes the sample document.
