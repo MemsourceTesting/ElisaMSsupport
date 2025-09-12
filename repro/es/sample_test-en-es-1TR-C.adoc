@@ -1,0 +1,33 @@
+= Documento de ejemplo de AsciiDoc
+Author Name <author@example.com>
+:toc:
+:icons: font
+
+== Introducción
+
+Este es un documento de ejemplo de AsciiDoc. Demuestra elementos básicos de sintaxis
+
+== Primera sección
+
+AsciiDoc le permite escribir texto estructurado con simple 
+
+* Punto de viñeta uno
+* Punto de viñeta 2
+* Punto de viñeta tres punto de viñeta cuatro sin viñeta
+
+
+. Primer elemento
+. Segundo elemento
+. Tercer elemento
+
+== Ejemplo de código
+
+[source,python]
+----
+def hello():
+    print("Hello, world!")
+----
+
+== Conclusión
+
+Esto concluye el documento de muestra.
