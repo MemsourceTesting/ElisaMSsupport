@@ -4,13 +4,13 @@ Author Name <author@example.com>
 :icons: font
 
 == Introduction
-
-This is a sample AsciiDoc document. It demonstrates basic syntax elements
+blablabalbla
+This is a sample AsciiDoc. It demonstrates basic syntax elements
 
 == Section One
 
-AsciiDoc allows you to write structured text with simple 
-
+AsciiDoc allows you to write text with simple 
+simple what?
 * Bullet point one
 * Bullet point 2
 * Bullet point three
@@ -21,12 +21,6 @@ bullet point four without bullet
 . Second item
 . Third item
 
-== Code Example
-
-[source,python]
-----
-def hello():
-    print("Hello, world!")
 ----
 
 == Conclusion
